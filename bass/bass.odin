@@ -63,7 +63,7 @@ Info :: struct {
 	free3d: u32,
 	minrate: u32,
 	maxrate: u32,
-	efs: bool,
+	efs: b32,
 	minbuf: u32,
 	dsver: u32,
 	latency: u32,
